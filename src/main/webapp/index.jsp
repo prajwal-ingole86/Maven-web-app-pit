@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1><font color='red'> Welcome to Prajwal IT - Software Training Institute <font></h1>
+<h1><font color='red'> Welcome to Prajwal IT - Leading Software Training Institute <font></h1>
 
 <h2>patthar pe patthar maare to chingari nikalti</h2>
 <h2>aayan bhai ko maare to puri gang nikalti</h2>
